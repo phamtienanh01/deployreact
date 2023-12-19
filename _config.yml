@@ -1,0 +1,7 @@
+site:
+  name: test deploy
+  description: A simple web app
+  author: phamtienanh01
+  email: phamtienanh0@gmail.com
+
+url: https://phamtienanh01.github.io/deployreact/
